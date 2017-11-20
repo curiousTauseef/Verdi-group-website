@@ -5,7 +5,7 @@ It is much more responsive than the pre-existing web ap/page
 [web link live](https://the-verdi-group.firebaseapp.com/)
 
 1. Screenshot
-![](screencap)
+![](screencap.png)
 
 1. gif of page
 ![](gif.gif)
